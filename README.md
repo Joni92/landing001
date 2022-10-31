@@ -1,6 +1,8 @@
 # landing001
 😍 Great main section - pepsi model. w/ effects.
 
+❌ not mobile view.
+
 ✅ Link GitHub Pages -> preview: https://joni92.github.io/landing001/
 
 ![preview.png](https://github.com/Joni92/landing001/blob/main/preview01.png)
